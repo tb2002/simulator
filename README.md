@@ -27,3 +27,5 @@ ffmpeg):
 
 NOTE: You need to install ffmpeg for the above to work. The ffmpeg program
 must also be on PATH.
+
+This is a message from Timothy
